@@ -1,0 +1,8 @@
+# Ignore Visual Studio temporary files, folders, and files
+.vs/
+*.vsconfig
+*.vscode/
+Debug/
+Release/
+
+Lab10/.vs/
